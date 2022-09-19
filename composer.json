@@ -1,0 +1,19 @@
+{
+  "name": "mnlnk/string",
+  "version": "0.1.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mnlnk",
+      "email": "u.mnlnk@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Manuylenko\\StringHelper\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
